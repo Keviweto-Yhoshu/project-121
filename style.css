@@ -1,0 +1,42 @@
+p{
+    color:blue;
+    letter-spacing:2px;
+}
+
+
+.mobile.net{
+    letter-spacing:2px;
+}
+
+.google_lens{
+    letter-spacing: 2px;
+    color: black;
+}
+img{
+    height: 300px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.white1{
+    color:white;
+}
+b{
+    color: deeppink;
+}
+.first,.second{
+    background-color: antiquewhite;
+    border-radius: 8px;
+    line-height: 3;
+}
+h4{
+    color: aliceblue;
+    font-weight: bold;
+}
+.test_image_and_result1{
+    margin-top: 10px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 2px 2px 27px grey;
+    width:98%;
+    margin-bottom: 10px;
+}
